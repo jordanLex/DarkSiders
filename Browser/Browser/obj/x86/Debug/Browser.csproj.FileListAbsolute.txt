@@ -1,0 +1,14 @@
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.exe
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.pdb
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Form1.resources
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.exe
+C:\Users\Дмитро\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.pdb
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Debug\Browser.exe
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Debug\Browser.pdb
+E:\лмв\ЛАБА3\Browser\Browser\bin\Debug\Browser.exe
+E:\лмв\ЛАБА3\Browser\Browser\bin\Debug\Browser.pdb
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Debug\Browser.Form1.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.Cache

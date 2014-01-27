@@ -1,0 +1,11 @@
+E:\лмв\ЛАБА3\Browser\Browser\bin\Release\Browser.exe
+E:\лмв\ЛАБА3\Browser\Browser\bin\Release\Browser.pdb
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form1.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Properties.Resources.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.csproj.GenerateResource.Cache
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.exe
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.pdb
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.csprojResolveAssemblyReference.cache
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form2.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form3.resources
+E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form4.resources
