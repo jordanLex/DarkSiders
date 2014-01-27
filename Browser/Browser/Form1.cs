@@ -150,7 +150,7 @@ namespace Browser
 
         private void button5_Click_2(object sender, EventArgs e)
         {
-
+           //Дядя діма чемпіон
            
             
                 WebBrowser browser = new WebBrowser();

@@ -9,3 +9,5 @@ E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.csprojResolveAssembl
 E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form2.resources
 E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form3.resources
 E:\лмв\ЛАБА3\Browser\Browser\obj\x86\Release\Browser.Form4.resources
+C:\Users\Дмитро\Documents\GitHub\DarkSiders\Browser\Browser\obj\x86\Release\Browser.exe
+C:\Users\Дмитро\Documents\GitHub\DarkSiders\Browser\Browser\obj\x86\Release\Browser.pdb
